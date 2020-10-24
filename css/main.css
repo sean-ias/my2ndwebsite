@@ -1,0 +1,61 @@
+* {
+  font-family: "Frank Ruhl Libre", serif;
+}
+.bg-dark {
+  background: #fef2f2 !important;
+}
+.active .nav-link {
+  font-weight: 500;
+  color: #01d1c1 !important;
+}
+.nav-link {
+  color: #111 !important;
+}
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
+  color: #01d1c1 !important;
+}
+.dropdown-item:active {
+  background: #01d1c1;
+}
+.btn-primary {
+  background: #01d1c1;
+  border: 3px solid #01d1c1;
+}
+.btn-primary:hover {
+  background: #00ad9f !important;
+  border-color: #00ad9f !important;
+}
+.btn-primary:active {
+  background: transparent !important;
+  border: 1px solid #111 !important;
+  color: #fff !important;
+  background: #111 !important;
+  outline: none !important;
+}
+.btn-secondary {
+  background: #ff6766 !important;
+  border-color: #ff6766 !important;
+}
+.btn-primary:hover {
+}
+.jumbotron {
+  background: #fef2f2;
+  background-image: url("../img/element.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom right;
+  background-size: 50%;
+  background-position-x: 1320px;
+  background-position-y: 120px;
+}
+.jumbotron h2 {
+  font-size: 54px;
+}
+.jumbotron span {
+  color: #01d1c1;
+}
+.iam {
+  font-size: 24px;
+}
