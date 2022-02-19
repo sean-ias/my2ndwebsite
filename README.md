@@ -1,6 +1,6 @@
-# Title: My Personal Web Site
-## Video Demo: https://youtu.be/sVDR7f841fU
-### Description:
+# Title: My Personal Website
+#### Video Demo: https://youtu.be/sVDR7f841fU
+#### Description:
 <ul>
 <li>For my CS50 Final Project, I implemented my personal web site, where you can find short info about me, as well as checkout my resume, blogs, and social media accounts to contact me!</li>
 <li>To start with in the folder named "project", created folders for user-friendly navigation of files where there are "/files, /img, /css" folders and three ".html" files. Infiles, I have uploaded my resume to be able to show it in my website. In img, I have uploaded 2 photos of mine, as well as some other trial logos and one primary logo of my website. In css folder you can see three .css files "main.css" for index.html, "blog.css" for blog.html, and "contact.css" for contact.html.
@@ -9,4 +9,4 @@
 <li>Talking about blogs file which is blog.html, it is responsible for holding blogs page. I included important bootstrap links and css link file. Then, built navigation bar at the top of my page, where you can go to Resume, Blogs, and Contact me pages! There is also my website logo in it. Especially I used "div" keywords with bootstrap's built in "card" class to build cards and shadowing them with css, the blogs is lightweight. Its css stylesheet which is blog.css mostly cares about the style of divs which is firsly "row" class, "columen" class, and "card" class.</li>
 <li>Talking about contacts file which is contact.html, it is responsible for holding contacts page. I included important bootstrap links and css link file. Then, built navigation bar at the top of my page, where you can go to Resume, Blogs, and Contact me pages! There is also my website logo in it. Especially I used "a" link keywords with bootstrap's built in social media link classes to show my social medias with great design. I also built form action as well where you can input your name, email, text. It is in the lightweight version! Talking about its css file which is contact.html I mostly cared about and desgined "input" what happens when we hover over it, "button", and bootstrap built social media classes ".fa" / ".fa-youtube" e.g.</li>
 </ul>
-	
+
